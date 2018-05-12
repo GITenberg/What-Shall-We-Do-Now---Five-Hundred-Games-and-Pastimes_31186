@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1781
     wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31186#What-Shall-We-Do-Now---Five-Hundred-Games-and-Pastimes
 gutenberg_issued: '2010-02-04'
 gutenberg_type: Text
 identifiers:
